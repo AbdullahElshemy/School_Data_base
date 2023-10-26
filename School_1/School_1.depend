@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1698312967 source:e:\embedded\school_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"school_1.h"
+
+1698311056 e:\embedded\school_1\school_1.h
+
+1698314805 source:e:\embedded\school_1\school_1.c
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+	<conio.h>
+	<unistd.h>
+	"school_1.h"
+
